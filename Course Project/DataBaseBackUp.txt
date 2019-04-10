@@ -1,0 +1,16 @@
+Administration,Director,Sergey,Andreev
+Administration,ViceDirector,Andrey,Voznianskij
+Financial,Cashier,Gregor,Lamishvily
+Financial,Accountant,Rosa,Liberman
+Financial,Director,Mark,Liberman
+IT,ViceDirector,Petr,Petrov
+IT,Junior,<Vacancy>,
+IT,Senior,Bjorn,Strausstrup
+IT,Lead,Mark,Price
+IT,Director,Ivan,Ivanovych
+IT,Architect,Jaffrey,Richter
+Maintance,Plumber,Mario,Buanarotty
+Maintance,Worker,Stan,Crowson
+Maintence,Director,Huan,Morrales
+Maintence,Electrician,Dyno,Lampido
+Maintence,Driver,Sami,Naceri 

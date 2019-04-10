@@ -1,0 +1,10 @@
+C:\Users\Администратор\Desktop\Course Project\PersonnelManager\PersonnelManager\bin\Debug\PersonnelManager.exe.config
+C:\Users\Администратор\Desktop\Course Project\PersonnelManager\PersonnelManager\bin\Debug\PersonnelManager.exe
+C:\Users\Администратор\Desktop\Course Project\PersonnelManager\PersonnelManager\bin\Debug\PersonnelManager.pdb
+C:\Users\Администратор\Desktop\Course Project\PersonnelManager\PersonnelManager\obj\Debug\PersonnelManager.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\Course Project\PersonnelManager\PersonnelManager\obj\Debug\PersonnelManager.PersonnelManager.resources
+C:\Users\Администратор\Desktop\Course Project\PersonnelManager\PersonnelManager\obj\Debug\PersonnelManager.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Course Project\PersonnelManager\PersonnelManager\obj\Debug\PersonnelManager.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Course Project\PersonnelManager\PersonnelManager\obj\Debug\PersonnelManager.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Course Project\PersonnelManager\PersonnelManager\obj\Debug\PersonnelManager.exe
+C:\Users\Администратор\Desktop\Course Project\PersonnelManager\PersonnelManager\obj\Debug\PersonnelManager.pdb
